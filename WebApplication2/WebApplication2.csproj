@@ -1,8 +1,8 @@
-﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+<Project Sdk="Microsoft.NET.Sdk.Web">
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <UserSecretsId>aspnet-TSB-B7704688-B809-44DC-8D29-1B6812D7542C</UserSecretsId>
+    <UserSecretsId>aspnet-WebApplication2-94DE5FF1-E0B6-4D26-900A-B6D39DBA2669</UserSecretsId>
   </PropertyGroup>
 
   <ItemGroup>
@@ -13,7 +13,6 @@
     <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="3.1.9" />
     <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="3.1.9" />
     <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="3.1.4" />
-    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Utils" Version="3.1.4" />
   </ItemGroup>
 
 </Project>
